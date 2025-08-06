@@ -1,1 +1,4 @@
 # Ordered-Hyperresolution
+
+The goal of minimizing the size of the clause set and swiftly removing the number of literals in the clause set is to increase the reasoning effectiveness of the resolution principle in propositional logic. This project provides an elimination resolution approach that selects the resolution literal from a set of complimentary pairings.
+This approach can be thought of as a first-order predicate logic theorem-proving approach. Transformation rules and resolution rules are two categories into which these rules might be divided. While the latter rules resolve a function and/or a function definition, the former rules transform the logic formula itself. If possible, the latter rules are used first. The former transformation rules are used if the latter rules cannot be used.
